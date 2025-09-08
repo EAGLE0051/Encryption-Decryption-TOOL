@@ -21,7 +21,7 @@ This is a Python-based GUI tool designed to provide a simple way to encrypt and 
 
 ### Clone the Repository:
 
-git clone https://github.com/EAGLE005102/encryption-decryption-tool.git
+git clone https://github.com/EAGLE0051/Encryption-Decryption-TOOL
 cd encryption-decryption-tool
 
 
@@ -41,4 +41,5 @@ pip install cryptography
 
 - Thanks to the cryptography team for their excellent library.
 - Thanks to the Python community for continuous support and resources.
+
 
