@@ -37,9 +37,6 @@ pip install cryptography
 - Copy the result to the clipboard.
 
 
-🙌 Acknowledgements
 
-- Thanks to the cryptography team for their excellent library.
-- Thanks to the Python community for continuous support and resources.
 
 
